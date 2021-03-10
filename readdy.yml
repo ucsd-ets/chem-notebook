@@ -1,0 +1,8 @@
+name: readdy
+channels:
+- conda-forge
+- readdy
+dependencies:
+- python
+- pip
+- readdy
